@@ -8,6 +8,7 @@
         android:id="@+id/article_list_toolbar_container"
         android:layout_width="match_parent"
         android:layout_height="@dimen/list_appbar_height"
+        android:elevation="@dimen/app_bar_elevation"
         android:background="?colorPrimary">
 
         <android.support.design.widget.CollapsingToolbarLayout
